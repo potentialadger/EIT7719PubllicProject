@@ -11,7 +11,7 @@ public class testEEIT179 {
 		System.out.println("askdljalsdjalsdj");
 		System.out.println("askdljalsdjalsdj");
 		System.out.println("askdljalsdjalsdj");
-		System.out.println("魔法少女最想看");
+		System.out.println("askdljalsdjalsdj");
 	}
 
 }
