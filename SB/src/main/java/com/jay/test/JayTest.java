@@ -3,7 +3,7 @@ package com.jay.test;
 public class JayTest {
 
 	public JayTest() {
-		// TODO Auto-generated constructor stub
+		System.out.println("測試branch02");
 	}
 
 }
