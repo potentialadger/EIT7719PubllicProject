@@ -1,8 +1,7 @@
 package com.henry;
 
-public class TestEEIT179Test {
+public class Apple {
 	public static void main(String[] args) {
-		System.out.println("adadasd");
+		System.out.println("Apple");
 	}
-
 }
